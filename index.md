@@ -10,9 +10,27 @@ title: "Inicio -  Fernando/Data Scientist"
     </ul>
 </nav>
 <section id="about" class="about-section">
-    <h2>Sobre mí</h2>
-    <p>Hola, soy Fernando, un apasionado de la ciencia de datos y el análisis. Tengo experiencia en proyectos de Machine Learning, análisis de datos empresariales y visualización con Tableau. Mi objetivo es utilizar el poder de los datos para generar conocimientos significativos que impulsen decisiones empresariales.</p>
+    <h2>Sobre Mí</h2>
+    <div class="about-content">
+        <p>👋 ¡Hola! Soy <strong>Fernando Pérez Torralba</strong>, un apasionado de la Ciencia de Datos y la Innovación. Me especializo en análisis de datos, modelado estadístico y machine learning, combinando creatividad y ciencia para resolver problemas complejos.</p>
+        <div class="skills">
+            <h3>🎓 Formación</h3>
+            <ul>
+                <li>📚 Master en Data Analyst e IA</li>
+                <li>📑 Certificación en Data Science</li>
+                <li>🔧 Cursos en Machine Learning</li>
+            </ul>
+            <h3>🛠️ Habilidades Técnicas</h3>
+            <ul>
+                <li>💻 Programación: Python, R, SQL</li>
+                <li>📊 Análisis: Pandas, NumPy</li>
+                <li>📈 Visualización: Matplotlib, Seaborn, Tableau</li>
+                <li>📐 Modelado: Scikit-learn, Statsmodels</li>
+            </ul>
+        </div>
+    </div>
 </section>
+
 
 
 <section id="projects" class="projects-section">
@@ -52,8 +70,12 @@ title: "Inicio -  Fernando/Data Scientist"
 </section>
 
 
-<section id="contact" class="contact-section">
-    <h2>Contacto</h2>
-    <p>💼 LinkedIn: <a href="https://linkedin.com/in/fernando" target="_blank">Perfil de LinkedIn</a></p>
-    <p>📧 Gmail: <a href="mailto:fernando@gmail.com">fernando@gmail.com</a></p>
-</section>
+   <footer>
+    <p>🌟 "Transforma los datos en decisiones" - Fernando</p>
+    <p>
+        💼 LinkedIn: 
+        <a href="https://www.linkedin.com/in/fernando-p%C3%A9rez-torralba-726257256" target="_blank">Perfil de LinkedIn</a> | 
+        📧 Gmail: 
+        <a href="mailto:fernandoptorralba@gmail.com">fernandoptorralba@gmail.com</a>
+    </p>
+</footer>

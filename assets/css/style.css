@@ -210,3 +210,40 @@ nav ul li a:hover {
     padding: 50px;
     text-align: center;
 }
+
+/* Transiciones suaves entre secciones */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Sección 'Sobre mí' más visual */
+.about-content {
+    background-color: #f7f9fc;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 20px auto;
+    text-align: left;
+    max-width: 800px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.about-content h3 {
+    color: #2d89e5;
+    margin-top: 20px;
+}
+
+.about-content ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.about-content li {
+    margin: 5px 0;
+    font-size: 1.1em;
+}
+
+/* Efecto hover en los enlaces del footer */
+footer a:hover {
+    color: #1abc9c;
+    text-decoration: underline;
+}
