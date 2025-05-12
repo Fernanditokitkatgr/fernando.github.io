@@ -11,16 +11,16 @@ Tengo experiencia en el análisis de datos, modelado estadístico y machine lear
 Me gusta comunicar resultados complejos de manera clara y sencilla, logrando conectar ciencia y creatividad.
 
 ### 🎓 Formación
-- Grado en Ingeniería (o lo que corresponda)
+- Master en Data Analyst e IA
 - Certificación en Data Science
-- Cursos especializados en Machine Learning y Análisis de Datos
+- Cursos especializados en Machine Learning.
 
 ### 🛠️ Habilidades Técnicas
 - **Programación:** Python, R, SQL
 - **Análisis de Datos:** Pandas, NumPy
 - **Visualización:** Matplotlib, Seaborn, Tableau
 - **Modelado Estadístico:** Scikit-learn, Statsmodels
-- **Gestión de Proyectos:** Jira, Asana
+
 
 ### 📬 Contacto
 - **Correo:** fernandoptorralba@gmail.com
